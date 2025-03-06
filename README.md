@@ -15,4 +15,6 @@
 ![ScreenShot_20250306232901](https://github.com/user-attachments/assets/257f1f11-40d6-467c-8120-7062ef9ca3f1)
 # Bill Generation
 ![ScreenShot_20250306232749](https://github.com/user-attachments/assets/8a4d9a05-8f3f-480d-a061-3e3062050dcb)
-
+<br>
+# Handling User Queries resolve pending etc..
+![ScreenShot_20250306232846](https://github.com/user-attachments/assets/19de7783-1c3e-4ea9-85f3-d1375d563076)
